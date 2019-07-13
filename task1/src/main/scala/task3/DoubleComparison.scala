@@ -8,4 +8,3 @@ object DoubleComparison {
       def ~= (d2: Double)(implicit epsilon: Double): Boolean = Math.abs(d1 - d2) < epsilon
   }
 }
-
