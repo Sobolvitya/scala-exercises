@@ -1,0 +1,8 @@
+*.class
+*.log
+*/.idea/*
+*/out/*
+*/.history/*
+*/.history
+*/target/*
+*/*/target/*
